@@ -1,2 +1,3 @@
 # Hello-World-2
-Another respository
+It's another repository.
+So how to use github?
